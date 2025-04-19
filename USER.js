@@ -6,7 +6,7 @@ const name = ""
 
 const bankName = ""
 
-const any = "𓃠"
+const any = "☢️"
 
-const emoji = '☘️'
+const emoji = '🇭🇹'
 module.exports = { pairNumber, accNumber, bankName, name, any, emoji };
